@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Objective Scripting
+title: Interaction Scripting
 author: Yannis Paetzelt
 ---
 
